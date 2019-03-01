@@ -17,9 +17,16 @@ $primary-font-color: red;
 }
 
 .header {
+  background-color: #e5ffa2;
+}
+
+.header-content {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  align-items: center;
+  background-color: #e5ffa2;
+  margin: 0 10%;
 }
 
 .header-nav>img,
@@ -28,7 +35,16 @@ $primary-font-color: red;
   width: auto;
 }
 
-// .logo>img {
-//   height: 75px;
-//   width: auto;
-// }
+.header-right {
+  display: flex;
+  flex-direction: row;
+}
+
+.signin {
+  padding-right: 20px;
+}
+
+.signin,
+.signup {
+  border: 1px solid blue;
+}
