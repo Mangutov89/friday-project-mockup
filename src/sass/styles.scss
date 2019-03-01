@@ -1,5 +1,6 @@
 * {
   box-sizing: border-box;
+  border: 1px solid black;
 }
 
 body {
@@ -18,6 +19,7 @@ $primary-font-color: red;
   background-repeat: no-repeat;
   background-size: cover;
 }
+
 
 .header {
   background-color: #e5ffa2;
@@ -58,12 +60,22 @@ $primary-font-color: red;
 }
 
 .secondary-content {
-  display: grid;
-  grid-template-rows: repeat(2, 1fr);
-  grid-template-columns: repeat(2, 1fr);
-  grid-gap: 5%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  // grid-template-rows: repeat(2, 1fr);
+  // grid-template-columns: repeat(2, 1fr);
+  // grid-gap: 5%;
+  width: 95%;
+  margin: 0 auto;
 }
 
 .sec-content {
   text-align: center;
+  width: 45%;
+}
+
+.sec-content>img {
+  width: 100%;
+  height: auto;
 }
