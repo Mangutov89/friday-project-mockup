@@ -63,9 +63,7 @@ $primary-font-color: red;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  // grid-template-rows: repeat(2, 1fr);
-  // grid-template-columns: repeat(2, 1fr);
-  // grid-gap: 5%;
+  justify-content: space-between;
   width: 95%;
   margin: 0 auto;
 }
@@ -73,6 +71,7 @@ $primary-font-color: red;
 .sec-content {
   text-align: center;
   width: 45%;
+  margin-bottom: 5%;
 }
 
 .sec-content>img {
