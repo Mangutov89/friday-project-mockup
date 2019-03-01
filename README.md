@@ -9,10 +9,10 @@
 This project is a website that gives free lance people who want to work in an office environment and have the same productivity as if they were in a real office. We will feature amenities to attach anyone who wants to work on whatever they are working on in a productive environment.
 ### Images
 
-![sketch process](img/sk1.jpg)
-![sketch process](img/sk2.jpg)
-![sketch process](img/sk3.jpg)
-![sketch process](img/sk4.jpg)
+![sketch process](img/sk1.JPG)
+![sketch process](img/sk2.JPG)
+![sketch process](img/sk3.JPG)
+![sketch process](img/sk4.JPG)
 
 #### Desktop Version
 

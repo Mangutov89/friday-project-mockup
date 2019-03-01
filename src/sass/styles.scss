@@ -41,10 +41,18 @@ $primary-font-color: red;
 }
 
 .signin {
-  padding-right: 20px;
+  position: relative;
+  right: 50px;
 }
 
 .signin,
 .signup {
-  border: 1px solid blue;
+  font-size: 30px;
+}
+
+.secondary-content {
+  display: grid;
+  grid-template-rows: repeat(2, 1fr);
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 15%;
 }
