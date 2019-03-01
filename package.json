@@ -1,0 +1,23 @@
+{
+  "name": "friday-project-mockup",
+  "version": "1.0.0",
+  "description": "---",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Mangutov89/friday-project-mockup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mangutov89/friday-project-mockup/issues"
+  },
+  "homepage": "https://github.com/Mangutov89/friday-project-mockup#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
