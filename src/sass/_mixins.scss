@@ -1,0 +1,12 @@
+@mixin displayrow {
+  display: flex;
+  flex-direction: row;
+}
+
+@mixin shadow($negnum, $posnum) {
+  text-shadow:
+		$negnum $negnum 0 #000,
+		$posnum $negnum 0 #000,
+		$negnum $posnum 0 #000,
+		$posnum $posnum 0 #000;
+}
