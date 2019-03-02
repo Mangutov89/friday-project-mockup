@@ -57,6 +57,7 @@ $primary-font-color: red;
 .main-content>img {
   width: 100%;
   height: auto;
+  margin-bottom: 5%;
 }
 
 .secondary-content {
@@ -77,4 +78,22 @@ $primary-font-color: red;
 .sec-content>img {
   width: 100%;
   height: auto;
+}
+
+p {
+  font-size: 30px;
+}
+
+h5 {
+  font-size: 90px;
+  text-align: center;
+}
+
+.secondary-content2 {
+  border: 100px solid black;
+  text-align: center;
+  background-color: #e5ffa2;
+  width: 100%;
+  font-size: 75px;
+  margin-bottom: 5%;
 }
