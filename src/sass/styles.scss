@@ -1,10 +1,10 @@
 * {
   box-sizing: border-box;
-  border: 1px solid black;
 }
 
 body {
   width: 100%;
+  background-color: #e5ffa2;
 }
 
 $font-stack: Helvetica, sans-serif;
@@ -52,6 +52,8 @@ $primary-font-color: red;
 .signin,
 .signup {
   font-size: 30px;
+  // background-image: linear-gradient(to left, #fbbf34, #f06f6f);
+  padding-top: 1px;
 }
 
 .main-content>img {
@@ -85,15 +87,50 @@ p {
 }
 
 h5 {
-  font-size: 90px;
+  font-size: 200px;
   text-align: center;
+  color: red;
+  text-shadow:
+		-5px -5px 0 #000,
+		5px -5px 0 #000,
+		-5px 5px 0 #000,
+		5px 5px 0 #000;
+}
+
+h3 {
+  text-align: center;
+  font-size: 90px;
+  color: red;
+  margin-top: -13%;
+  margin-bottom: 25%;
+  text-shadow:
+		-2px -2px 0 #000,
+		2px -2px 0 #000,
+		-2px 2px 0 #000,
+		2px 2px 0 #000;
 }
 
 .secondary-content2 {
-  border: 100px solid black;
+  border: 95px solid #191919;
   text-align: center;
   background-color: #e5ffa2;
   width: 100%;
   font-size: 75px;
   margin-bottom: 5%;
+}
+
+.signin>h4,
+.signup>h4 {
+  background-image: linear-gradient(to left, #fbbf34, #f06f6f);
+  padding: 10px 15px;
+  color: red;
+  text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
+}
+
+img {
+  border-radius: 10px;
 }
