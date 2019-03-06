@@ -16,11 +16,13 @@ This project is a website that gives free lance people who want to work in an of
 
 #### Desktop Version
 
-![desktop user interface](link-to-screenshot-here)
+![desktop user interface](img/desktop.png)
+
 
 #### Mobile Version
 
-![mobile user interface](link-to-screenshot-here)
+![mobile user interface](img/mobile1.png)
+![mobile user interface](img/mobile2.png)
 
 ### User Stories
 
