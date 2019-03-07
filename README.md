@@ -24,6 +24,24 @@ This project is a website that gives free lance people who want to work in an of
 ![mobile user interface](img/mobile1.png)
 ![mobile user interface](img/mobile2.png)
 
+### Personas
+
+* Kyrie
+  * "I need a welcoming working area"
+  * Needs - Highspeed internet, well light area, and easy access to coffee.
+  * Pain Points - Very loud areas, crowded work space, and uncleanly environment.
+  * How we can serve - Make renting an office a quick process and have available rooms.
+* Jayson
+  * "I need a access to a private office for meetings"
+  * Needs - Private office that can hold up to 12 people and sound proof rooms.
+  * Pain Points - Slow internet and no occupancy of private offices .
+  * How we can serve - provide a tech on hand to fix any internet issues if any occur.
+* Jaylen
+  * "An environment where I can work freely"
+  * Needs - A kitchen, lots of parking spaces, and near a populated area.
+  * Pain Points - rude people, working on one floor, and no access to outside amenities.
+  * How we can serve - have multiple floors to work in and have a patio area to work on nice weather days.
+
 ### User Stories
 
 * As a writer I would like to be able to rent out a private office for about 2-3 months. That way I can have a private space to myself to get the best out of my writing.

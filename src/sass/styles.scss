@@ -122,7 +122,7 @@ img {
   border-radius: 10px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (min-width: 570px) and (max-width: 800px) {
    .sec-content {
      display: flex;
      flex-direction: column;
@@ -136,5 +136,28 @@ img {
    }
    .logo {
      display: none;
+   }
+}
+
+@media screen and (min-width: 300px) and (max-width: 560px) {
+   .sec-content {
+     display: flex;
+     flex-direction: column;
+     width: 90%;
+   }
+   h5 {
+     font-size: 70px;
+   }
+   h3 {
+     font-size: 40px;
+   }
+   .logo {
+     display: none;
+   }
+   .header-right {
+     display: none;
+   }
+   p {
+     font-size: 35px;
    }
 }
